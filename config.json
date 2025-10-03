@@ -12,8 +12,128 @@
       "name": "黑木耳",
       "detail": "https://heimuer.tv"
     },
+    "xinlang": {
+      "api": "https://xinlangzy.com/api.php/provide/vod",
+      "name": "新浪资源站",
+      "detail": "https://xinlangzy.com"
+    },
+    "tiankong": {
+      "api": "https://help.tiankongapi.com/api.php/provide/vod",
+      "name": "天空资源站",
+      "detail": "https://help.tiankongapi.com"
+    },
+    "wujin_new": {
+      "api": "https://help.wujinapi.me/api.php/provide/vod",
+      "name": "无尽资源站",
+      "detail": "https://help.wujinapi.me"
+    },
+    "bfzy_publish": {
+      "api": "https://publish.bfzy.tv/api.php/provide/vod",
+      "name": "暴风采集站",
+      "detail": "https://publish.bfzy.tv"
+    },
+    "ffzy_caiji": {
+      "api": "http://ffzy5.tv/api.php/provide/vod",
+      "name": "非凡采集站",
+      "detail": "http://ffzy5.tv"
+    },
+    "kuaikan": {
+      "api": "https://kuaikanzy.net/api.php/provide/vod",
+      "name": "快看采集站",
+      "detail": "https://kuaikanzy.net"
+    },
+    "leshizy": {
+      "api": "https://www.leshizy1.com/api.php/provide/vod",
+      "name": "乐视采集站",
+      "detail": "https://www.leshizy1.com"
+    },
+    "hongniu": {
+      "api": "https://hongniuzy.net/api.php/provide/vod",
+      "name": "红牛资源站",
+      "detail": "https://hongniuzy.net"
+    },
+    "youzhi1080": {
+      "api": "https://1080zyk6.com/api.php/provide/vod",
+      "name": "优质资源库",
+      "detail": "https://1080zyk6.com"
+    },
+    "yaya": {
+      "api": "https://yayazy.com/api.php/provide/vod",
+      "name": "鸭鸭资源库",
+      "detail": "https://yayazy.com"
+    },
+    "niuniu": {
+      "api": "https://niuniuzy.cc/api.php/provide/vod",
+      "name": "牛牛资源站",
+      "detail": "https://niuniuzy.cc"
+    },
+    "okzyw": {
+      "api": "https://okzyw.vip/api.php/provide/vod",
+      "name": "OK 资源网",
+      "detail": "https://okzyw.vip"
+    },
+    "49zyw": {
+      "api": "https://49zyw.com/api.php/provide/vod",
+      "name": "49 资源网",
+      "detail": "https://49zyw.com"
+    },
+    "360zy5": {
+      "api": "https://360zy5.com/api.php/provide/vod",
+      "name": "360 资源站",
+      "detail": "https://360zy5.com"
+    },
+    "qihu": {
+      "api": "https://qihuzy4.com/api.php/provide/vod",
+      "name": "奇虎资源站",
+      "detail": "https://qihuzy4.com"
+    },
+    "ikun_new": {
+      "api": "https://www.ikunzy.com/api.php/provide/vod",
+      "name": "ikun资源站",
+      "detail": "https://www.ikunzy.com"
+    },
+    "qilin": {
+      "api": "https://www.qilinzyz.com/api.php/provide/vod",
+      "name": "麒麟资源站",
+      "detail": "https://www.qilinzyz.com"
+    },
+    "taopian": {
+      "api": "https://www.taopianzy.com/api.php/provide/vod",
+      "name": "淘片资源网",
+      "detail": "https://www.taopianzy.com"
+    },
+    "haohua": {
+      "api": "https://haohuazy.com/api.php/provide/vod",
+      "name": "豪华资源站",
+      "detail": "https://haohuazy.com"
+    },
+    "suoni": {
+      "api": "https://suonizy.com/api.php/provide/vod",
+      "name": "索尼资源站",
+      "detail": "https://suonizy.com"
+    },
+    "modu5": {
+      "api": "https://moduzy5.com/api.php/provide/vod",
+      "name": "魔都资源站",
+      "detail": "https://moduzy5.com"
+    },
+    "bfzy5": {
+      "api": "https://bfzy5.tv/api.php/provide/vod",
+      "name": "暴风资源站",
+      "detail": "https://bfzy5.tv"
+    },
+    "lzi_new": {
+      "api": "https://lzizy.net/api.php/provide/vod",
+      "name": "量子资源站",
+      "detail": "https://lzizy.net"
+    },
+    "baiduzy": {
+      "api": "https://help.apibdzy.com/api.php/provide/vod",
+      "name": "百度资源站",
+      "detail": "https://help.apibdzy.com"
+    },
     "ruyi": {
-      "api": "http://cj.rycjapi.com/api.php/provide/vod",
+      "api": "https://cj.rycjapi.com/api.php/provide/vod",
       "name": "如意资源"
     },
     "bfzy": {
@@ -25,21 +145,24 @@
       "name": "天涯资源"
     },
     "ffzy": {
-      "api": "http://ffzy5.tv/api.php/provide/vod",
-      "name": "非凡影视",
-      "detail": "http://ffzy5.tv"
+      "api": "http://api.ffzyapi.com/api.php/provide/vod",
+      "name": "非凡云资源"
     },
     "zy360": {
       "api": "https://360zy.com/api.php/provide/vod",
       "name": "360资源"
     },
-    "maotaizy": {
-      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
-      "name": "茅台资源"
+    "iqiyi": {
+      "api": "https://www.iqiyizyapi.com/api.php/provide/vod",
+      "name": "iqiyi资源"
     },
     "wolong": {
-      "api": "https://wolongzyw.com/api.php/provide/vod",
+      "api": "https://collect.wolongzy.cc/api.php/provide/vod",
       "name": "卧龙资源"
+    },
+    "hwba": {
+      "api": "https://cjhwba.com/api.php/provide/vod",
+      "name": "华为吧资源"
     },
     "jisu": {
       "api": "https://jszyapi.com/api.php/provide/vod",
@@ -78,13 +201,46 @@
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
     },
-    "lzi": {
-      "api": "https://cj.lziapi.com/api.php/provide/vod",
-      "name": "量子资源站"
+    "pbpan": {
+      "api": "https://dh.ha.cn/api.php/provide/vod",
+      "name": "瀑布盘"
     },
-    "xiaomaomi": {
-      "api": "https://zy.xmm.hk/api.php/provide/vod",
-      "name": "小猫咪资源"
+    "mtzy": {
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/json/",
+      "name": "茅台资源"
+    },
+    "guangsuzy": {
+      "api": "https://api.guangsuapi.com/api.php/provide/vod",
+      "name": "光速资源"
+    },
+    "hongniuzy": {
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod",
+      "name": "红牛资源"
+    },
+    "suonizy": {
+      "api": "https://suoniapi.com/api.php/provide/vod",
+      "name": "索尼资源"
+    },
+    "ukuzy": {
+      "api": "https://api.ukuapi88.com/api.php/provide/vod",
+      "name": "U酷资源"
+    },
+    "xinlangzy": {
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+      "name": "新浪资源"
+    },
+    "ckzy": {
+      "api": "https://ckzy.me/api.php/provide/vod",
+      "name": "CK资源"
+    },
+    "qilinzyz": {
+      "api": "https://www.qilinzyz.com/api.php/provide/vod",
+      "name": "麒麟资源"
+    },
+    "kuaiche": {
+      "api": "https://help.kczyapi.com/api.php/provide/vod",
+      "name": "快车资源站",
+      "detail": "https://help.kczyapi.com"
     }
   }
 }
